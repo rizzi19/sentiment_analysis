@@ -69,3 +69,18 @@ An end-to-end toolkit on building a sentiment prediction model with a Jupyer not
 * To close >> Go back to Terminal & type `ctrl+c` >> Deactivate Virtual Environment ENV
 
       deactivate
+
+
+---
+
+### 👩‍💻 Contributor Note — Riddhi Saraf
+
+This fork reflects my contributions to the original Sentiment Analysis project involving Amazon Alexa Reviews.
+
+**My individual contributions:**
+- Implemented the ML classification pipeline using TF-IDF and Support Vector Machine (SVM)
+- Built RESTful Flask APIs for model inference and deployed the model locally using Flask
+- Developed a minimal web UI for real-time review input and prediction
+- Added input validation and testing to improve robustness and usability
+- Achieved 90% classification accuracy on the Alexa reviews dataset
+
